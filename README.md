@@ -1,6 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page!</h1>
 
 <p>👋 Hi, I’m Jian, Fullstack developer, currently living in Norwich, Connecticut</b>. </p>
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning React Native
+- 💬 &nbsp;Ask me about anything related to Javascript/React/Css
+- 👨‍💻 &nbsp;Read more about my projects at [https://jianzhang-2.netlify.app/](https://jianzhang-2.netlify.app/)
 
 <h3>Things I code with</h3>
 <p>
